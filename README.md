@@ -13,7 +13,7 @@
 
 # Estructura del Proyecto
 
-
+```text
 EV_CHARGE/
 ├── config/             # Configuración de la base de datos y conexiones
 │   └── database.py
