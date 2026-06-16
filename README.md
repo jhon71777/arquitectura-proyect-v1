@@ -39,30 +39,30 @@ EV_CHARGE/
 # Clonar el Repositorio
 gh repo clone jhon71777/arquitectura-proyect-v1
 
-#Ingresar al proyecto:
+# Ingresar al proyecto:
 
 
-#Crear Entorno Virtual
+# Crear Entorno Virtual
 
 python -m venv venv
 
-#Activar Entorno Virtual
+# Activar Entorno Virtual
 Linux/Ubuntu/Lubuntu/Debian
 
 source venv/bin/activate
 
-#Windows
+# Windows
 
 venv\Scripts\activate
 
-#Instalar Dependencias
+# Instalar Dependencias
 pip install -r requirements.txt
 
-#Ejecutar la Aplicación
+# Ejecutar la Aplicación
 uvicorn app.main:app --reload
 
 
-#Acceder a la API
+# Acceder a la API
 
 Interfaz de usuario Swagger
 http://127.0.0.1:8000/docs
