@@ -35,7 +35,7 @@ EV_CHARGE/
 ├── models.py           # Modelos de tablas de SQLAlchemy
 ├── main.py             # Punto de entrada de la aplicación FastAPI
 └── requirements.txt    # Dependencias del proyecto
-
+```
 # Clonar el Repositorio
 gh repo clone jhon71777/arquitectura-proyect-v1
 
